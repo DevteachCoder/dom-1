@@ -1,0 +1,10 @@
+#btn {
+    padding: 15px 30px;
+    font-size: 20px;
+    outline: none;
+    color:#fff;
+    margin: 10px;
+    background-color: rgb(39, 97, 97);
+    text-align: center;
+    cursor: pointer;
+}
